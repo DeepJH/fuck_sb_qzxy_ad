@@ -56,10 +56,10 @@ rules:
 
 | 拦截前 | 拦截后 |
 | --- | --- |
-| ![运行效果](./images/demo1-1.png) | !["运行效果"](./images/demo1-2.png) |
-| ![运行效果](./images/demo2-1.png) | ![运行效果](./images/demo2-2.png) |
-| ![运行效果](./images/demo3-1.png) | ![运行效果](./images/demo3-2.png) |
-| ![运行效果](./images/demo4-1.png) | ![运行效果](./images/demo4-2.png) |
+| ![demo](./images/demo1-1.jpg) | ![demo](./images/demo1-2.jpg) |
+| ![demo](./images/demo2-1.jpg) | ![demo](./images/demo2-2.jpg) |
+| ![demo](./images/demo3-1.jpg) | ![demo](./images/demo3-2.jpg) |
+| ![demo](./images/demo4-1.jpg) | ![demo](./images/demo4-2.jpg) |
 
 ---
 
