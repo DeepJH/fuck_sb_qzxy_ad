@@ -7,7 +7,6 @@
   - DOMAIN-SUFFIX,aa.birdgesdk.com,REJECT
   - DOMAIN-SUFFIX,abtest-ch.snssdk.com,REJECT
   - DOMAIN-SUFFIX,ad.shunchangzhixing.com,REJECT
-  - DOMAIN-SUFFIX,addr.htm,REJECT
   - DOMAIN-SUFFIX,adgw.alipay.com,REJECT
   - DOMAIN-SUFFIX,adimage.bwton.com,REJECT
   - DOMAIN-SUFFIX,admin.hzjizhun.cn,REJECT
@@ -69,8 +68,6 @@
   - DOMAIN-SUFFIX,mq.china-qzxy.cn,REJECT
   - DOMAIN-SUFFIX,mssdk-bu.bytedance.com,REJECT
   - DOMAIN-SUFFIX,mssdk.volces.com,REJECT
-  - DOMAIN-SUFFIX,new-logo.png,REJECT
-  - DOMAIN-SUFFIX,new-tjgg.png,REJECT
   - DOMAIN-SUFFIX,oss.china-qzxy.cn,REJECT
   - DOMAIN-SUFFIX,p0.meituan.net,REJECT
   - DOMAIN-SUFFIX,p66-ad.adkwai.com,REJECT
