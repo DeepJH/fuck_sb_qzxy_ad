@@ -107,7 +107,6 @@ ulogs.umeng.com
 umini.shujupie.com
 utoken.umeng.com
 v2mi.gdt.qq.com
-v3-api.china-qzxy.cn
 vcs.zijieapi.com
 wanproxy-hz.127.net
 webcast-open.douyin.com
