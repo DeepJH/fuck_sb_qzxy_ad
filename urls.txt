@@ -1,19 +1,8 @@
-10.7.28.8000
-10272.png
 122.237.57.64
 139.9.135.156
-1768481638135.1768481643225.1768481643227
 183.131.64.170
-2.1.15408712
 2.5.8.13
 27.44.204.173
-2F143.0.7499.192
-2F4.0
-2F5.0
-2F537.36
-2FAP3A.240905.015.A2
-3.0
-a7a39db6fcbf6abec5c8f78da41bdb27.jpg
 aa.birdgesdk.com
 abtest-ch.snssdk.com
 ad.shunchangzhixing.com
@@ -113,4 +102,4 @@ webcast-open.douyin.com
 webcast5-open-lf.douyin.com
 www.taobao.com
 xlog.jd.com
-https://app-cold-water.china-qzxy.cn
+app-cold-water.china-qzxy.cn
