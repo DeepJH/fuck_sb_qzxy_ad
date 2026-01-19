@@ -78,7 +78,6 @@
   - DOMAIN,umini.shujupie.com,REJECT
   - DOMAIN,utoken.umeng.com,REJECT
   - DOMAIN,v2mi.gdt.qq.com,REJECT
-  - DOMAIN,v3-api.china-qzxy.cn,REJECT
   - DOMAIN,vcs.zijieapi.com,REJECT
   - DOMAIN,wanproxy-hz.127.net,REJECT
   - DOMAIN,webcast-open.douyin.com,REJECT
