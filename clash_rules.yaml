@@ -83,3 +83,4 @@
   - DOMAIN,webcast-open.douyin.com,REJECT
   - DOMAIN,webcast5-open-lf.douyin.com,REJECT
   - DOMAIN,app-cold-water.china-qzxy.cn,REJECT
+  - DOMAIN,mdn.alipayobjects.com,REJECT

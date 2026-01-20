@@ -83,3 +83,4 @@ wanproxy-hz.127.net
 webcast-open.douyin.com
 webcast5-open-lf.douyin.com
 app-cold-water.china-qzxy.cn
+mdn.alipayobjects.com
